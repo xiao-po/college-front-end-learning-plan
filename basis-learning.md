@@ -23,6 +23,10 @@ JS 能够读取网页上渲染用的数据 ,就像 Java 能够读取当前各种
 
 上面的话仅仅是阐述 HTML 和 CSS 和 JS 之间的关系和作用 . 但是还是从下面的教程开始入门 HTML 吧。
 
+## 思维导图
+
+![](front-end-xmind.png)
+
 ## HTML / CSS
  
 1. 对于文档文字比较熟悉或者希望速成一点的同学
@@ -77,3 +81,55 @@ JS 能够读取网页上渲染用的数据 ,就像 Java 能够读取当前各种
 
 ## JS 相关
 
+* [JavaScript 教程](https://www.w3school.com.cn/js/index.asp)
+
+    因为具备 C语言 和 Java 基础，非重点章节请快速浏览，不需要花时间在对应的
+    章节浪费过多的精力。
+
+    开发过程中经常能碰到的是 60% 的知识点都碰不到，但是一旦碰到一定要直到用什么，
+    方式能够解决开发过程中碰到的问题，对于不需要强制理解的需要理解这个功能是能干什么的，
+    未来碰到问题之后可以很快翻文档去解决问题。
+
+    下面列出需要重点理解的章节
+  
+    - [JavaScript 输出](https://www.w3school.com.cn/js/js_output.asp)
+       
+        实际上 JS 的输出功能并没有那么强大，甚至不能读取文件，这个是 JS 环境的权限限制的。
+       
+        为什么大家都喜欢用 Java 呢，Java 具备跨平台的兼容，他的 API 提供各种和系统交互的功能,
+        JS 并不能做到，但是需要掌握的原因是调试需求，你需要在适当的时候输出各种值进行调试
+      
+    - [JavaScript 数据类型](https://www.w3school.com.cn/js/js_datatypes.asp)
+       
+    - [JavaScript Function](https://www.w3school.com.cn/js/js_functions.asp)
+    
+    - [String](https://www.w3school.com.cn/js/js_strings.asp)
+        
+        连同 [String Function](https://www.w3school.com.cn/js/js_string_methods.asp) 
+        都是需要重点了解的
+       
+    - [Number](https://www.w3school.com.cn/js/js_numbers.asp)
+
+        连同 [Number Function](https://www.w3school.com.cn/js/js_number_methods.asp)
+        都是需要重点了解的
+      
+    - [Array](https://www.w3school.com.cn/js/js_arrays.asp)
+
+        连同 [Array Function](https://www.w3school.com.cn/js/js_array_methods.asp)
+        都是需要重点了解的
+      
+    - [JavaScript 作用域](https://www.w3school.com.cn/js/js_scope.asp)
+    
+    - [JavaScript JSON](https://www.w3school.com.cn/js/js_json.asp)
+    
+    - [JavaScript this 关键词](https://www.w3school.com.cn/js/js_this.asp)
+    
+    - [JS 对象](https://www.w3school.com.cn/js/js_object_definition.asp)
+    
+        js 对象一共有 **对象定义**、**对象属性**、**对象方法**、对象访问器、**对象构造器**、对象原型和ECMAScript 5，
+        这几个章节，只需要看加重字体的几个章节，未来会选个时间进行讲解
+      
+
+## 结束
+
+简单的基础就到这里了，下次会学习一些和网页交互的方式。
