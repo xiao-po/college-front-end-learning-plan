@@ -19,10 +19,24 @@
 
     [官网](https://git-scm.com/) , git 是一个广泛用于 `版本管理` 的工具, 同时也是必须开发安装的工具.
     
+* idea (如果你想学习后端的话，建议)
 
+    [idea](https://www.jetbrains.com/idea/) 是一个广泛用于 java 开发的 IDE，也是目前占比最高的 JAVA IDE。
 
 # 开始
 
-1. [HTML/CSS/JS基础](basis-learning.md) 
+* 前端 
 
-2. [JS 进阶 / Document 对象](web-document-api-leraing.md)
+    1. [HTML/CSS/JS基础](front-end/basic-learning.md)
+
+    2. [JS 进阶 / Document 对象](front-end/web-document-api-learning.md)
+    
+    2.5 在继续学习之前，先阅读 [提问的智慧](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/main/README-zh_CN.md)
+  
+    2.9 [Java 后端基础](backend/java-spring-basic-learning.md) (选学) (等待补全)
+  
+    3. [vue/react 前端框架](front-end/web-framework-learning.md)
+    
+* 后端
+
+    1. [Java 后端基础](backend/java-spring-basic-learning.md)  (等待补全)
